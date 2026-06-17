@@ -25,7 +25,9 @@ jobs:
           git config --global user.email 'bot@portfolio.local'
           git add public/portfolio_data.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update portfolio data [skip ci]" && git push )
-      - run: npm install && npm run build
+      - run: |
+          npm install --legacy-peer-deps
+          npm run build
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
