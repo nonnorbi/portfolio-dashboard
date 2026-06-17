@@ -1,11 +1,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
-import jscPlugin from '@builder.io/vite-plugin-jsx-loc'
 
 export default defineConfig({
   base: '/portfolio-dashboard/',
-  plugins: [react(), jscPlugin()],
+  plugins: [react()],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './client/src'),
@@ -17,8 +16,5 @@ export default defineConfig({
     rollupOptions: {
       input: 'client/index.html',
     },
-  },
-  server: {
-    middlewareMode: false,
   },
 })
