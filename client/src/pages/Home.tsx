@@ -79,7 +79,7 @@ export default function Home() {
 
   const loadPortfolioData = async () => {
     try {
-      const response = await fetch('/portfolio_data.json');
+      const response = await fetch('/portfolio-dashboard/portfolio_data.json');
       if (response.ok) {
         const data = await response.json();
         setPortfolioData(data);
