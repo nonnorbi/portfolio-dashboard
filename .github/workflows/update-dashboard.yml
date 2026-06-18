@@ -2,9 +2,7 @@ name: Update Portfolio Dashboard
 
 on:
   schedule:
-    # Futtatás 30 percenként
     - cron: '*/30 * * * *'
-  # Manuális futtatás lehetősége
   workflow_dispatch:
 
 jobs:
