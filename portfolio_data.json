@@ -1,0 +1,77 @@
+{
+  "portfolio": {
+    "etf": {
+      "total_eur": 2422.4,
+      "percentage": 5.96
+    },
+    "bonds": {
+      "total_eur": 26971.0,
+      "percentage": 66.37
+    },
+    "fundamenta": {
+      "total_eur": 5994.0,
+      "percentage": 14.75
+    },
+    "total_eur": 40639.41
+  },
+  "goals": {
+    "primary": {
+      "target_eur": 1000000,
+      "year": 2040,
+      "description": "DREAM"
+    },
+    "milestones": [
+      {
+        "target_eur": 50000,
+        "year": 2026,
+        "description": "STAIR STEP"
+      },
+      {
+        "target_eur": 70000,
+        "year": 2027,
+        "description": "STAIR STEP"
+      },
+      {
+        "target_eur": 85000,
+        "year": 2028,
+        "description": "LIL' GOAL"
+      },
+      {
+        "target_eur": 100000,
+        "year": 2029,
+        "description": "LIL' GOAL"
+      },
+      {
+        "target_eur": 250000,
+        "year": 2032,
+        "description": "BIG GOAL"
+      },
+      {
+        "target_eur": 500000,
+        "year": 2036,
+        "description": "BIG GOAL"
+      },
+      {
+        "target_eur": 800000,
+        "year": 2038,
+        "description": "BIG GOAL"
+      },
+      {
+        "target_eur": 1000000,
+        "year": 2040,
+        "description": "DREAM"
+      }
+    ]
+  },
+  "summary": {
+    "current_total": 40639.41,
+    "primary_goal": 1000000,
+    "progress_percent": 4.06,
+    "next_milestone": {
+      "target": 50000,
+      "year": 2026,
+      "progress_percent": 81.28
+    }
+  },
+  "last_updated": "2026-06-18T05:21:27.200056Z"
+}
