@@ -1,18 +1,18 @@
 {
   "portfolio": {
     "etf": {
-      "total_eur": 0.0,
-      "percentage": 0
+      "total_eur": 2447.02,
+      "percentage": 6.06
     },
     "bonds": {
       "total_eur": 26584.0,
-      "percentage": 0
+      "percentage": 65.84
     },
     "fundamenta": {
       "total_eur": 5908.0,
-      "percentage": 0
+      "percentage": 14.63
     },
-    "total_eur": 0.0
+    "total_eur": 40379.27
   },
   "goals": {
     "primary": {
@@ -64,14 +64,14 @@
     ]
   },
   "summary": {
-    "current_total": 0.0,
+    "current_total": 40379.27,
     "primary_goal": 1000000,
-    "progress_percent": 0.0,
+    "progress_percent": 4.04,
     "next_milestone": {
       "target": 50000,
       "year": 2026,
-      "progress_percent": 0
+      "progress_percent": 80.76
     }
   },
-  "last_updated": "2026-07-10T22:00:02.614370Z"
+  "last_updated": "2026-07-10T23:08:14.306725Z"
 }
