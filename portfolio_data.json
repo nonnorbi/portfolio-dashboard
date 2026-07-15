@@ -5,14 +5,14 @@
       "percentage": 8.76
     },
     "bonds": {
-      "total_eur": 26754.0,
-      "percentage": 61.43
+      "total_eur": 26761.0,
+      "percentage": 61.44
     },
     "fundamenta": {
-      "total_eur": 6131.0,
+      "total_eur": 6133.0,
       "percentage": 14.08
     },
-    "total_eur": 43551.54
+    "total_eur": 43559.41
   },
   "goals": {
     "primary": {
@@ -64,14 +64,14 @@
     ]
   },
   "summary": {
-    "current_total": 43551.54,
+    "current_total": 43559.41,
     "primary_goal": 1000000,
     "progress_percent": 4.36,
     "next_milestone": {
       "target": 50000,
       "year": 2026,
-      "progress_percent": 87.1
+      "progress_percent": 87.12
     }
   },
-  "last_updated": "2026-07-15T16:19:55.582518Z"
+  "last_updated": "2026-07-15T17:46:16.324426Z"
 }
