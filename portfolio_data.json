@@ -1,8 +1,8 @@
 {
   "portfolio": {
     "etf": {
-      "total_eur": 4977.72,
-      "percentage": 10.79
+      "total_eur": 0.0,
+      "percentage": 0.0
     },
     "bonds": {
       "total_eur": 26865.0,
@@ -73,5 +73,5 @@
       "progress_percent": 92.26
     }
   },
-  "last_updated": "2026-08-15T22:46:12.355619Z"
+  "last_updated": "2026-08-15T23:17:27.436272Z"
 }
