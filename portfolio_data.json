@@ -9,8 +9,8 @@
       "percentage": 58.24
     },
     "fundamenta": {
-      "total_eur": 6337.0,
-      "percentage": 13.74
+      "total_eur": 0.0,
+      "percentage": 0.0
     },
     "total_eur": 46128.7
   },
@@ -73,5 +73,5 @@
       "progress_percent": 92.26
     }
   },
-  "last_updated": "2026-08-16T07:28:46.329368Z"
+  "last_updated": "2026-08-16T07:55:57.999157Z"
 }
