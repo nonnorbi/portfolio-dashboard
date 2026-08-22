@@ -5,8 +5,8 @@
       "percentage": 10.65
     },
     "bonds": {
-      "total_eur": 0.0,
-      "percentage": 0.0
+      "total_eur": 26900.0,
+      "percentage": 58.52
     },
     "fundamenta": {
       "total_eur": 6346.0,
@@ -73,5 +73,5 @@
       "progress_percent": 91.93
     }
   },
-  "last_updated": "2026-08-22T10:19:57.124202Z"
+  "last_updated": "2026-08-22T10:48:43.783398Z"
 }
