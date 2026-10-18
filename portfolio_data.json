@@ -12,7 +12,7 @@
       "total_eur": 6880.0,
       "percentage": 13.85
     },
-    "total_eur": 49667.44
+    "total_eur": 49667.52
   },
   "goals": {
     "primary": {
@@ -64,14 +64,14 @@
     ]
   },
   "summary": {
-    "current_total": 49667.44,
+    "current_total": 49667.52,
     "primary_goal": 1000000,
     "progress_percent": 4.97,
     "next_milestone": {
       "target": 50000,
       "year": 2026,
-      "progress_percent": 99.33
+      "progress_percent": 99.34
     }
   },
-  "last_updated": "2026-10-18T03:01:10.568102Z"
+  "last_updated": "2026-10-18T08:13:37.369830Z"
 }
