@@ -10,9 +10,9 @@
     },
     "fundamenta": {
       "total_eur": 6887.0,
-      "percentage": 13.91
+      "percentage": 13.92
     },
-    "total_eur": 49498.87
+    "total_eur": 49492.9
   },
   "goals": {
     "primary": {
@@ -64,14 +64,14 @@
     ]
   },
   "summary": {
-    "current_total": 49498.87,
+    "current_total": 49492.9,
     "primary_goal": 1000000,
     "progress_percent": 4.95,
     "next_milestone": {
       "target": 50000,
       "year": 2026,
-      "progress_percent": 99.0
+      "progress_percent": 98.99
     }
   },
-  "last_updated": "2026-11-07T09:54:23.401206Z"
+  "last_updated": "2026-11-07T16:05:26.958109Z"
 }
